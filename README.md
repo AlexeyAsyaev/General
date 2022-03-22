@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexik777
+- 👋 Hi, my name is Alexey
 - 👀 I’m interested in data analytics projects to change the world
 - 🌱 I’m currently learning Python and neural networks' basics
 - 💞️ I’m looking to collaborate on an entry level data analytics project
