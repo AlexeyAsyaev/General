@@ -1,8 +1,7 @@
-- 👋 Hi, my name is Alexey
-- 👀 I’m interested in data analytics projects to change the world
-- 🌱 I’m currently learning Python and neural networks' basics
-- 💞️ I’m looking to collaborate on an entry level data analytics project
-- 📫 How to reach me e-mail me on asyaev.a@yandex.ru
+👋 Hi, my name is Alexey
+Interested in data analytics projects to change the world. 
+Coding on Python (Pytorch, Keras). Open for colaboration on ML, NLP, CV projects.
+You can reach me on asyaev.a@yandex.ru
 
 <!---
 alexik777/alexik777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
