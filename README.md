@@ -1,4 +1,5 @@
-👋 Hi, my name is Alexey
+👋 Hi, my name is Alexey.
+
 Interested in data analytics projects to change the world. 
 Coding on Python (Pytorch, Keras). Open for colaboration on ML, NLP, CV projects.
 You can reach me on asyaev.a@yandex.ru
